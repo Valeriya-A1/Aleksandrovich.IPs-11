@@ -1,0 +1,32 @@
+## Visual Studio
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## NuGet packages
+packages/
+*.nupkg
+
+## Test results
+TestResults/
+*.trx
+*.coverage
+
+## Backup files
+*~
+*.bak
+*.tmp
+
+## Windows
+Thumbs.db
+Desktop.ini
