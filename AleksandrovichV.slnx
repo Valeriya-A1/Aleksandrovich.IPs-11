@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="AleksandrovichLib/AleksandrovichLib.csproj" />
+  <Project Path="AleksandrovichTests/AleksandrovichTests.csproj" />
+  <Project Path="AleksandrovichV/AleksandrovichV.csproj" />
+</Solution>
